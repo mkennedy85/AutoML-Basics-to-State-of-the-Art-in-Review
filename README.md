@@ -23,7 +23,7 @@ Please credit the original authors when referencing or sharing this work.
 
 This is my applied, industry-oriented breakdown of the research, discussing AutoML through the lens of modern engineering practice, ML-Ops, systems thinking, and organizational transformation.
 
-🔗 **Medium Article:** *[Placeholder — link to be added]*
+🔗 **Medium Article:** [*Medium*](https://medium.com/@michaellkennedy/automl-is-eating-traditional-machine-learning-but-it-still-needs-human-systems-thinking-4f41ea809ba3)
 
 ---
 
